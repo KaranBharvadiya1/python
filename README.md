@@ -110,7 +110,7 @@ We use the `bar()` method from `matplotlib.pyplot` to create a vertical bar char
 ---
 
 #### 🖼 Output:
-![Bar Chart](output_bar_chart.png)
+![Bar Chart](day5-Practice/output_bar_chart.png)
 
 ---
 
