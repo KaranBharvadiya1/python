@@ -15,7 +15,7 @@ df = pd.DataFrame(data)
 print("Original DataFrame:")
 print(df)
 
-# ✅ Fill missing values with column-wise mean
+# Fill missing values with column-wise mean
 df.fillna(df.mean(numeric_only=True), inplace=True)
 
 print("\nDataFrame after filling missing values with mean:")
