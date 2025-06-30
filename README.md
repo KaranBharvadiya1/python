@@ -83,6 +83,15 @@ We used the `plot()` method with markers, colors, labels, and grid.
 
 ---
 
+### 3. Pie Chart (Daily Time Distribution)
+
+A pie chart is used to **visualize parts of a whole**. It shows how a total is divided into different categories — such as how time is spent in a day.
+
+We used the `pie()` method from `matplotlib.pyplot` to create this chart.
+
+#### Output:
+![Pie Chart](day5-Practice/output_pie_chart.png)
+
 ## About Me
 
 **Karan Bharvadiya**  
